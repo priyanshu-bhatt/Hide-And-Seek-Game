@@ -14,7 +14,7 @@ const  gift1=Math.floor(Math.random() * 36)+1
         console.log(gift1);
         console.log(gift2);
         console.log(gift3);
-        console.log(bomb);
+        console.log("bomb "+bomb)
        
         var win_counter=0;
         var loose_counter=0;

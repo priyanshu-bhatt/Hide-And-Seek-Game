@@ -15,7 +15,7 @@ const  gift1=Math.floor(Math.random() * 9)+1
         console.log(gift1);
         console.log(gift2);
         console.log(gift3);
-        console.log("bomb"+bomb)
+        console.log("bomb "+bomb)
         
         var win_counter=0;
         var loose_counter=0;
